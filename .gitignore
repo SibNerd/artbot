@@ -131,3 +131,6 @@ dmypy.json
 
 # VSCode stuff
 .vscode
+
+# Security stuff
+constants.py
